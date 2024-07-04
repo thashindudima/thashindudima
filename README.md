@@ -27,6 +27,34 @@
 
 - ⚡ Fun fact **T think I am happy**
 
+- 
+<div align="left">
+  <a href="https://www.youtube.com/@ThashinduDimalsha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Thashindu%20Dimalsha&color=FF0000&logoColor=red&labelColor=%09255%200%200&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/thashindu_dima/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=thashindudima&color=E4405F&logoColor=dark%20pink&labelColor=#fccc63&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/thashindu_dima" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitch&label=thashindudima&color=9146FF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="thashindu07dimalsha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=thashindudimalsha07dimalsha@gmail.com&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thashindu-dimalsha-b3937b316/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=thashindudima&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+
+<br clear="both">
+
+<div align="center">
+  <img height="156" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+</div> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thashindu_dima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thashindu_dima" height="30" width="40" /></a>
