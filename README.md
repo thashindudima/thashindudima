@@ -1,5 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Thashindu Dimalsha</h1>
 <h3 align="center">@thashindu_dima</h3>
+
+<br clear="both">
+
+<div align="center">
+  <img height="156" src="https://avatars.githubusercontent.com/u/170605900?s=400&u=0b78f8cf567194148045b487c31b171c05a96f6e&v=4"  />
+</div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thashindudima&label=Profile%20views&color=0e75b6&style=flat" alt="thashindudima" /> </p>
 
