@@ -19,13 +19,13 @@
 - 💬 Ask me about Any thing
 - 📫 How to reach me thashindu_dima on Instagram
 
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Thashindu Dimalsha 👋
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/thashindu-dimalsha-b3937b316/))
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/thashindu_dima)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](thashindu07dimalsha@gmail.com)
 
 ## Languages and Tools
 
