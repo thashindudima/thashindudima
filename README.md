@@ -1,4 +1,6 @@
-
+<head>
+  google-site-verification: google3e107278eab64091.html
+<body>
 <h1 align="center">Hi 👋, I'm Thashindu Dimalsha</h1>
 <h3 align="center">@thashindu_dima</h3>
 
@@ -81,3 +83,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thashindudima&show_icons=true&locale=en" alt="thashindudima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thashindudima&" alt="thashindudima" /></p>
+
+
+</head>
