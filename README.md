@@ -1,6 +1,8 @@
-<head>
-<meta name="google-site-verification" content="EujPxZpQFUTdcII_JASwQ3MniPKFAfE9XFAEtfHWYXI" />
+<html>
+  <head>
+  <meta name="google-site-verification" content="EujPxZpQFUTdcII_JASwQ3MniPKFAfE9XFAEtfHWYXI" />
 <body>
+    
 <h1 align="center">Hi 👋, I'm Thashindu Dimalsha</h1>
 <h3 align="center">@thashindu_dima</h3>
 
@@ -83,6 +85,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thashindudima&show_icons=true&locale=en" alt="thashindudima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thashindudima&" alt="thashindudima" /></p>
-
-
+</body>
 </head>
+</html>
