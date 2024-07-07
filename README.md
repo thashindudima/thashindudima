@@ -3,7 +3,7 @@
   <meta name="google-site-verification" content="EujPxZpQFUTdcII_JASwQ3MniPKFAfE9XFAEtfHWYXI" />
 <body>
 <div align="center">
-  <img height="156" src="(https://github.com/thashindudima/thashindudima/blob/main/logo_large.png)"  />
+  <img height="156" src="https://github.com/thashindudima/thashindudima/blob/main/logo_large.png"  />
 </div> 
 
 
