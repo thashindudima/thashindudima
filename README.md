@@ -2,8 +2,6 @@
 <meta name="google-site-verification" content="EujPxZpQFUTdcII_JASwQ3MniPKFAfE9XFAEtfHWYXI" />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dila-wa&" alt="thashindu-dima" /></p>
-
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> 
