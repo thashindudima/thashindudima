@@ -182,6 +182,6 @@ h3 align="left">Stars</h3>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<a href="https://github.com/thashindu" target="_blank">GitHub</a>
+<a href="[https://github.com/thashindu](https://github.com/thashindudima)" target="_blank">GitHub</a>
 
 
